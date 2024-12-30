@@ -8,5 +8,5 @@ print("Ayo this si super simple code bro")
 ```
 ## Ayo we gonna have nice check list
 - [x] Trying to get used to life
-- [] Getting used to github
+- [ ] Getting used to github
 - [x] Learn how to code
